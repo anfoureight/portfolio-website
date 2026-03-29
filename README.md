@@ -2,7 +2,7 @@
 
 ## 📌 Description
 This is a personal portfolio website project built using HTML and CSS.  
-It is designed to showcase my future projects, skills, and experience as a developer.
+It is designed to showcase projects, skills, and experience.
 
 ## 🚀 Features
 - Responsive design

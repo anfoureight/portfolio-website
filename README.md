@@ -18,7 +18,7 @@ It is designed to showcase projects, skills, and experience.
 2. Open index.html in your browser
 
 ## 📷 Preview
-images/screenshot1.png
+![App Screenshot](images/screenshot.jpg)
 
 ## 📚 What I learned
 - Structuring a website

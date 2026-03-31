@@ -41,7 +41,7 @@ It demonstrates a clean layout and basic structure for presenting personal proje
 ---
 
 ## 🔗 Live Demo
-[View Portfolio Website](https://anfoureight.github.io/portfolio-website/)
+[View Portfolio Website](https://andriimaniak.github.io/portfolio-website/)
 
 ---
 
